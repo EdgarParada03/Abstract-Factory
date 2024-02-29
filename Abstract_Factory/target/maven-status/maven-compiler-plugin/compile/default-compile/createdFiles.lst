@@ -1,0 +1,12 @@
+com\mycompany\abstract_factory\Arma.class
+correccion\Personaje.class
+com\mycompany\abstract_factory\VillanoFactory.class
+com\mycompany\abstract_factory\PersonajeFactory.class
+com\mycompany\abstract_factory\Heroe.class
+com\mycompany\abstract_factory\Villano.class
+com\mycompany\abstract_factory\Espada.class
+correccion\PersonajeFactory.class
+com\mycompany\abstract_factory\ArmaDeFuego.class
+com\mycompany\abstract_factory\Abstract_Factory.class
+com\mycompany\abstract_factory\HeroeFactory.class
+com\mycompany\abstract_factory\Personaje.class
